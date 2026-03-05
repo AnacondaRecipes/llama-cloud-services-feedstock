@@ -47,6 +47,10 @@ about:
   license_file: LICENSE
   license_family: MIT
   summary: Tailored SDK clients for LlamaCloud services.
+  description: |
+    This package contains the code for hand-written SDKs and clients for
+    interacting with LlamaCloud, such as LlamaParse, LlamaExtract,
+    LlamaCloud Index.
   doc_url: https://docs.cloud.llamaindex.ai
   dev_url: https://github.com/run-llama/llama_cloud_services
 
